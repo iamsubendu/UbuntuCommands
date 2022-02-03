@@ -1,0 +1,121 @@
+ctrl + alt +t
+=> to open terminal
+
+
+
+ls
+=> to show all files in directory/folder
+
+
+
+ls -l
+=> gives detailed info about all files in the directory
+
+
+
+ls -la
+=> it show long listing detailed info including hidden files
+The files start with "." are hidden files
+
+
+
+pwd
+=> present working directory
+
+
+
+cd ..
+=> changes to predecessor directory
+
+
+
+cd 
+=> brings us to home directory
+
+
+
+cd fileName
+=> go to the directory
+
+
+
+touch fileName
+=> to create any file
+
+
+
+
+cat > fileName
+=> any message
+ctl + z
+=> to stop
+=> this will create a file with data on it
+
+
+
+
+cat fileName
+=> to check the message in the file
+
+
+
+
+cat >> fileName
+=> to add content in the file
+ctrl + z
+=> to stop the process
+
+
+
+
+
+mkdir folderName
+=> to create a folder
+mkdir sd badshah
+=> 2 folders will be created named sd &
+    badshah
+
+
+
+
+
+
+clear 
+ctrl + l
+=> to clear the screen
+
+
+
+
+
+
+cp fileName folderName
+=> to copy file in same directory
+sudo cp fileName /folderName
+=> to copy file in other directory
+
+
+
+
+
+sudo mv folderName /folderName-in-Which-u-want-to-move
+=> moving folder to another folder
+
+
+
+rm fileName
+=> delete a file
+
+
+
+rm -r folderName
+=> remove a directory/folder
+
+
+
+
+
+mv oldFileNm newFileNm
+=> rename a file
+mv oldFolderNm newFolderNm
+=> rename a folder 
